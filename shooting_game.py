@@ -3,6 +3,8 @@ from pygame.locals import *
 import math
 from random import randint
 
+# Hi girls
+
 pygame.init()
 win = pygame.display.set_mode((600, 600))
 pygame.display.set_caption('ShootV2')
